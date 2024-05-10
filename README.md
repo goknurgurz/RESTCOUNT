@@ -24,7 +24,6 @@ The user should be able to:
 ## Screenshots/GIFs
 
 <details close>
-<summary>Search Demo</summary>
 
 ![Search Demo](./media/search.gif)
 
@@ -59,24 +58,6 @@ The user should be able to:
 
 <hr />
 
-## Installation
-
-```bash
-git clone git@github.com:victoriacheng15/rest-countries-api-ts.git
-```
-
-```bash
-cd rest-countries-api-ts
-```
-
-```bash
-pnpm install
-# or your preference of package manager
-```
-
-```bash
-pnpm dev
-```
 
 ## What I learned
 
@@ -114,6 +95,3 @@ I am looking to add React Testing Library for this project to solidify my knowle
 - [useCallback hook](https://beta.reactjs.org/apis/react/useCallback)
 - [React TypeScript cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/context)
 
-## Author
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/victoriacheng15/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/viktoriacheng15)
