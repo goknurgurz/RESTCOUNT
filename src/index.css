@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-nuito;
+  }
+
+  #root {
+    @apply min-h-screen;
+  }
+}
+
+@layer components {
+  .page-box {
+    @apply grid aspect-square w-12 place-items-center rounded-md border-4 text-2xl  font-bold md:w-14;
+  }
+}
